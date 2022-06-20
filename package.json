@@ -1,0 +1,15 @@
+{
+  "scripts": {
+    "start": "ts-node meteo.ts"
+  },
+  "devDependencies": {
+    "@types/node": "^17.0.42",
+    "ts-node": "^10.8.1",
+    "tslib": "^2.4.0",
+    "typescript": "^4.7.3"
+  },
+  "dependencies": {
+    "@types/jsdom": "^16.2.14",
+    "@types/request-promise-native": "^1.0.18"
+  }
+}
